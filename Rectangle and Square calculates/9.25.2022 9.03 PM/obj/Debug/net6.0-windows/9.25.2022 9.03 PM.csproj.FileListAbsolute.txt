@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\bin\Debug\net6.0-windows\9.25.2022 9.03 PM.exe
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\bin\Debug\net6.0-windows\9.25.2022 9.03 PM.deps.json
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\bin\Debug\net6.0-windows\9.25.2022 9.03 PM.runtimeconfig.json
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\bin\Debug\net6.0-windows\9.25.2022 9.03 PM.dll
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\bin\Debug\net6.0-windows\9.25.2022 9.03 PM.pdb
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\_9._25._2022_9._03_PM.Form1.resources
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.csproj.GenerateResource.cache
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.AssemblyInfo.cs
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.dll
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\refint\9.25.2022 9.03 PM.dll
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.pdb
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\9.25.2022 9.03 PM.genruntimeconfig.cache
+C:\Users\User\source\repos\9.25.2022 9.03 PM\9.25.2022 9.03 PM\obj\Debug\net6.0-windows\ref\9.25.2022 9.03 PM.dll
